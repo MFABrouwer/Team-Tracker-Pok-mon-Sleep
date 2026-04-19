@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+
 # 🌙 Pokémon Sleep — Team Tracker & Weekplanner
 
 A personal Excel-based tracker for **Pokémon Sleep**, built to evaluate, score, and organize your Pokémon roster across multiple team roles.
